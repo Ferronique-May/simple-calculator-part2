@@ -34,10 +34,3 @@ class Calculator{
 }
 
 let n = new Calculator();
-
-console.log(n.add(1,2));
-console.log(n.setSlot(1));
-console.log(n.getSlot(1));
-console.log(n.multiply(1,2));
-console.log(n.last);
-console.log(n.getSlot(1));
