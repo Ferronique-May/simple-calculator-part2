@@ -1,6 +1,5 @@
 class Calculator {
   constructor() {
-    console.log("calculator has been created");
     this.slot = [];
   }
 
